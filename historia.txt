@@ -5,3 +5,5 @@ Wolf tiene 35 años y nacio en Venezuela. Este año cumple 36.
 Hoy hablaremos de su vida e historia y demas detalles ocultos.
 
 Tiene una mascota llamada duquesa.
+
+Esta estudiando en platzi.
