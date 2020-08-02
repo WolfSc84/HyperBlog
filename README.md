@@ -1,7 +1,6 @@
 # Hyperblog 💚💚
 Un blog incre&iacute;ble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de es elemental para todo desarrollador, sin importar que area del desarrollo elija.
-> - niñita
 
 ## En este curso vemos de todo
 * Todos los comandos de Git
